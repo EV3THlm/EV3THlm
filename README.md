@@ -1,23 +1,14 @@
-# Hi there, I'm EV3TH 👋
+<h3 size="50px" align="center">Hey there, I'm EV3TH</a> <img src="https://slackmojis.com/emojis/10003-catjam/download" width="30" /> </h3>
+<p align="center">
 
-<!--
-**EV3THlm/EV3THlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- stats and languages-->
 <img text-align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=EV3THlm&show_icons=true&theme=cobalt" />
-
 <img text-align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EV3THlm&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  
+ <p>Hola, Me llamo Ebeth, tengo 22 años, estudiante de la carrera de Ing. Tecnologias de la Informacion y Comunicacion, tengo experiencia en sistemas operativos Linux, y me gusta estudiar nuevas tecnologias por cuenta propia.
+   
+### My preferred tecnologies are:
+- Javascript
 
 ### My Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,11 +21,6 @@ Here are some ideas to get you started:
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+   
+</p>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EV3THlm&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EV3THlm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-### Contact Me
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
