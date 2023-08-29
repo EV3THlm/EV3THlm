@@ -8,7 +8,7 @@
  <p>Hola, Me llamo Ebeth, tengo 22 años, estudiante de la carrera de Ing. Tecnologias de la Informacion y Comunicacion, tengo experiencia en sistemas operativos Linux, y me gusta estudiar nuevas tecnologias por cuenta propia.
    
 ### My preferred tecnologies are:
-- Javascript
+- Java
 
 ### My Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
