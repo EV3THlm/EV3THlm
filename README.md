@@ -1,26 +1,57 @@
-<h3 size="50px" align="center">Hey there, I'm EV3TH</a> <img src="https://slackmojis.com/emojis/10003-catjam/download" width="30" /> </h3>
-<p align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!-- stats and languages-->
-<img text-align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=EV3THlm&show_icons=true&theme=cobalt" />
-<img text-align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EV3THlm&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-  
- <p>Hola, Me llamo Ebeth, tengo 22 años, estudiante de la carrera de Ing. Tecnologias de la Informacion y Comunicacion, tengo experiencia en sistemas operativos Linux, y me gusta estudiar nuevas tecnologias por cuenta propia.
-   
-### My preferred tecnologies are:
-- Java
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+EV3TH!;" />
+</h1>
 
-### My Stack
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3 align="center">A passionate IT student from Mexico Qro</h3>
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-   
-</p>
+<br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a chat app**
+ 
+ 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
+
+<div align="center"> 
+  <a href="https://facebook.com/EV3TH" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=,github,mysql,python,java,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,bash,html,css,vscode,git" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=EV3THlm&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=EV3THlm&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EV3THlm&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
