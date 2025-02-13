@@ -6,8 +6,8 @@
 
 <div align="left">
     Hello, My name is EV3TH, 24 years old.
-    I love linux and docker, but I am interested in SpringBoot w. Java, I'm a
-    programmer.
+    I love linux and docker, but I am interested in SpringBoot w. Java, I'm a Backend
+    developer.
 </div>
 <h2 align="left">Languages and Tools</h2>
 <div align="left">
